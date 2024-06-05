@@ -64,3 +64,10 @@ If you encounter common issues:
 For additional help, you can run:
 ```bash
 truffle help
+##Authors
+Contributors names and contact info:
+
+By MetaCrafters
+-Nivedita
+##License
+This project is licensed under the MIT License
